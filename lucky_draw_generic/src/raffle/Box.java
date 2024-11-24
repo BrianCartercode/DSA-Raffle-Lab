@@ -1,8 +1,7 @@
 package raffle;
 
 import java.util.ArrayList;
-/* !!!! There is an import statement missing here.
- */
+
 import java.util.Iterator;
 import java.util.Random;
 
